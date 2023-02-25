@@ -20,6 +20,6 @@ day = x.strftime("%d")
 month = x.strftime("%B")
 year = x.year
 
-status = f"On {weekday}, {month} {day} of the year {year} the price of 1 Bitcoin is ${current_price}"
+status = f"On {weekday}, {month} {day} of the year {year} the price of 1 #Bitcoin is ${current_price}"
 
 api.update_status(status)
