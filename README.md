@@ -1,4 +1,4 @@
-README
+Twitter Bot
 
 This Python script uses the Tweepy and Requests libraries to fetch the current price of Bitcoin from Coinbase's API, and post it as a tweet on Twitter using the user's API credentials.
 Requirements
